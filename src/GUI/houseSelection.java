@@ -81,7 +81,7 @@ public class houseSelection extends javax.swing.JFrame {
 
     private void sendConfirmationEmail(String fullName) {
         // Simulate sending confirmation email
-        System.out.println("Confirmation email sent to: Mohammed@azab.io");
+        System.out.println("Confirmation email sent to: m.3zab@outlook.com");
     }
 
     private void updateTable() {
@@ -234,7 +234,7 @@ public class houseSelection extends javax.swing.JFrame {
         jLabel9.setText("Azab's Hotel");
 
         jLabel10.setFont(new java.awt.Font("Segoe UI Symbol", 1, 14)); // NOI18N
-        jLabel10.setText("Mohammed@azab.io");
+        jLabel10.setText("m.3zab@outlook.com");
 
         jButton1.setBackground(new java.awt.Color(102, 102, 102));
         jButton1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
